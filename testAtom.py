@@ -12,6 +12,6 @@ print 1+1
 def sinePlotter(amplitude, phase, frequency):
 
 
-
+    #Small change to nothing. 
 
     return sineToPlot
