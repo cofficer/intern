@@ -13,6 +13,7 @@ def sinePlotter(amplitude, phase, frequency):
 
 
     #Small change to nothing.
-
+    #Alright
+    
 
     return sineToPlot
